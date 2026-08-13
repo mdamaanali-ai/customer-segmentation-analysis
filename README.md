@@ -3,5 +3,5 @@ Customer Segmentation Project using Python and scikit-learn to analyze customer 
 
 ## 🚀 Live Demo
 
-[![Open Website](https://img.shields.io/badge/🚀%20Open%20Website-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](YOUR_STREAMLIT_URL)
+[![Open Website](https://img.shields.io/badge/🚀%20Open%20Website-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](YOUR_STREAMLIT_URL)https://customer-segmentation-analysis-dampnpuebax2l32k7aqydy.streamlit.app/
 
